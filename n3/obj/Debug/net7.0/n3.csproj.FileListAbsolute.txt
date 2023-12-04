@@ -1,0 +1,4 @@
+/Users/nastya/Desktop/array/n3/obj/Debug/net7.0/n3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastya/Desktop/array/n3/obj/Debug/net7.0/n3.AssemblyInfoInputs.cache
+/Users/nastya/Desktop/array/n3/obj/Debug/net7.0/n3.AssemblyInfo.cs
+/Users/nastya/Desktop/array/n3/obj/Debug/net7.0/n3.csproj.CoreCompileInputs.cache
